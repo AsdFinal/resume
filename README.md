@@ -18,7 +18,7 @@
 # 开源项目和作品
 - 视频伴侣      ：      [Github](https://github.com/AsdFinal/videoDownloader)/[酷安网](http://coolapk.com/apk/asd.dogw.videodownloader)/[豌豆荚](http://www.wandoujia.com/apps/asd.dogw.videodownloader)    
 - DroidManager ： [Github](https://github.com/AsdFinal/DroidManager)  
-- 房产中介管理系统 : 宜宾家喻房产中介公司  
+- 房产中介管理系统 : 宜宾家喻房产中介公司房产管理系统    
 - 三中记忆(微信公众平台) : 公众号 AsdServer  
 
 # 奖项
@@ -27,7 +27,7 @@
 
 # 技能清单
 
-以下均为我熟练使用的技能
+以下为我使用的技能
 
 - 算法设计 ：各类算法
 - 桌面开发 ：Delphi/VB
